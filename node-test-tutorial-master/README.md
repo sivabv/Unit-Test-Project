@@ -1,6 +1,7 @@
-Node Test Tutorial
+Chai Unit Testing
 ==================
 
-Files for a tutorial for testing HTTP Responses and emitted events in Node.js.
+Run nmp install
+and nmp test to see the unit tests
 
-The full tutorial can be found at my [blog](https://davidbeath.com/posts/testing-http-responses-in-nodejs.html).
+
