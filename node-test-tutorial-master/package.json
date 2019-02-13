@@ -1,0 +1,21 @@
+{
+  "name": "node-test-tutorial",
+  "version": "0.1.0",
+  "description": "Tutorial for testing HTTP Reponses in Node.js",
+  "main": "./lib/server.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "homepage": "http://github.com/DBeath/node-test-tutorial",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/DBeath/node-test-tutorial"
+  },
+  "author": "David Beath",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "request": "*"
+  }
+}
